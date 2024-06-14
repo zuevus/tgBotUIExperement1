@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "distr/tgpastilariumprj/browser",
+    "public": "src",
     "ignore": [
       "firebase.json",
       "**/.*",
